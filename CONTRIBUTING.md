@@ -3,7 +3,7 @@ Contributing to Mongoid-Slug
 
 Mongoid-slug is work of [many of contributors](https://github.com/mongoid/mongoid-slug/graphs/contributors). You're encouraged to submit [pull requests](https://github.com/mongoid/mongoid-slug/pulls), [propose features, ask questions and discuss issues](https://github.com/mongoid/mongoid-slug/issues).
 
-#### Fork the Project
+#### Fork the Project 
 
 Fork the [project on Github](https://github.com/mongoid/mongoid-slug) and check out your copy.
 
